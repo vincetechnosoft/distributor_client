@@ -2,7 +2,7 @@ name: distributor_client
 description: A new Flutter project.
 
 publish_to: "none"
-version: 1.0.0+1
+version: 1.0.0+2
 
 environment:
   sdk: ">=2.17.0 <3.0.0"
@@ -12,7 +12,6 @@ dependencies:
     path: D:/Vince Techno Soft/packages/bmi_b2b_package
   cloud_firestore: ^3.1.18
   cupertino_icons: ^1.0.2
-  dio: ^4.0.6
   firebase_app_check: ^0.0.6+14
   firebase_core: ^1.18.0
   firebase_storage: ^10.2.18
@@ -25,7 +24,6 @@ dependencies:
   pdf: ^3.8.1
   provider: ^6.0.3
   shared_preferences: ^2.0.15
-  url_launcher: ^6.1.4
 
 dev_dependencies:
   flutter_launcher_icons: "^0.9.2"
